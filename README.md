@@ -16,8 +16,6 @@ Hi 👋 My name is Ahmad Shah Gouhari!<br><br># 🚀  Frontend Developer & Graph
 <a href="https://instagram.com/ekahmad1398" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ekahmad1398" height="30" width="40" /></a>
 </p>
 
-# 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ekahmad1398&show_icons=true&locale=en&layout=compact" alt="ekahmad1398" /></p>
 
 ![](https://streak-stats.demolab.com/?user=ekahmad1398&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ekahmad1398&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)

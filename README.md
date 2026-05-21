@@ -1,10 +1,11 @@
-# 💫 About Me
-
 <h1 align="center">Hi 👋, I'm Ahmad Shah Gouhari</h1>
-<h3 align="center">Frontend Developer & Graphic Designer</h3>
+
+<h3 align="center">
+Frontend Developer & Graphic Designer
+</h3>
 
 <p align="center">
-Passionate about building modern, responsive, and user-friendly web experiences using modern frontend technologies.
+Passionate about building modern, responsive, and user-friendly web experiences.
 </p>
 
 ---
@@ -23,10 +24,12 @@ Passionate about building modern, responsive, and user-friendly web experiences 
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,git,cpp,ps" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,git,cpp" />
 </p>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="48" height="48"/>
+  
   <img src="https://cdn.simpleicons.org/canva/00C4CC" alt="canva" width="48" height="48"/>
 </p>
 
@@ -35,21 +38,21 @@ Passionate about building modern, responsive, and user-friendly web experiences 
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://twitter.com/ekahmad1398" target="_blank">
-  <img src="https://skillicons.dev/icons?i=twitter" width="45" />
-</a>
+  <a href="https://twitter.com/ekahmad1398" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" width="45" />
+  </a>
 
-<a href="https://linkedin.com/in/ekahmad1398" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
-</a>
+  <a href="https://linkedin.com/in/ekahmad1398" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+  </a>
 
-<a href="https://facebook.com/ekahmad1398" target="_blank">
-  <img src="https://cdn.simpleicons.org/facebook/1877F2" width="45" />
-</a>
+  <a href="https://facebook.com/ekahmad1398" target="_blank">
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" width="45" />
+  </a>
 
-<a href="https://instagram.com/ekahmad1398" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" width="45" />
-</a>
+  <a href="https://instagram.com/ekahmad1398" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="45" />
+  </a>
 </p>
 
 ---
@@ -79,5 +82,5 @@ Passionate about building modern, responsive, and user-friendly web experiences 
 ## ✨ Quote
 
 <p align="center">
-<i>"Great web experiences are built with creativity, consistency, and attention to detail."</i>
+  <i>"Great web experiences are built with creativity, consistency, and attention to detail."</i>
 </p>

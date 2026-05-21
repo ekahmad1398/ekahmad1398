@@ -6,20 +6,18 @@ Frontend Developer & Graphic Designer from Afghanistan 🇦🇫
 </h3>
 
 <p align="center">
-Passionate about building modern, responsive, and user-friendly web experiences using React, Next.js, and Tailwind CSS.
+Passionate about building modern, responsive, and user-friendly web experiences.
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ekahmad1398&theme=tokyonight&hide_border=true&border_radius=10" height="165" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ekahmad1398&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="stats graph" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekahmad1398&theme=tokyonight&hide_border=true&layout=compact" height="165" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekahmad1398&theme=tokyonight&hide_border=true&layout=compact" height="160" alt="languages graph" />
 </div>
 
 ---
-
-<img align="right" height="170" src="https://i.imgflip.com/65efzo.gif" alt="coding gif"/>
 
 ## 🚀 About Me
 
@@ -82,8 +80,6 @@ Passionate about building modern, responsive, and user-friendly web experiences 
 </div>
 
 ---
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
 

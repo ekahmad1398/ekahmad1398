@@ -9,7 +9,7 @@
   <br><br>
 
   <!-- لینک پورتفولیو زنده شما -->
-  <a href="YOUR_PORTFOLIO_LINK_HERE" target="_blank">
+  <a href="portfolio-phi-olive-94.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/🌐_View_My_Live_Portfolio-2563EB?style=for-the-badge&logoColor=white" alt="Live Portfolio" />
   </a>
   
@@ -76,8 +76,17 @@
   <a href="https://wa.me/93782506437">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
-  &nbsp;
   <a href="mailto:ahmadshahgouhari001@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <br><br>
+  <a href="https://www.instagram.com/ekahmad1398">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.facebook.com/ekahmad1398">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://www.tiktok.com/@ekahmad1398">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
 </div>

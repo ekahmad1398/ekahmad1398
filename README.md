@@ -28,8 +28,8 @@ Passionate about building modern, responsive, and user-friendly web experiences.
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="48" height="48"/>
-  
+  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" alt="photoshop" width="48" height="48"/>
+
   <img src="https://cdn.simpleicons.org/canva/00C4CC" alt="canva" width="48" height="48"/>
 </p>
 

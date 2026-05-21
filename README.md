@@ -22,6 +22,6 @@ Hi 👋 My name is Ahmad Shah Gouhari!<br><br># 🚀  Frontend Developer & Graph
 
 
 
----
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ekahmad1398&show_icons=true&locale=en" alt="ekahmad1398" /></p>
-
+<h3 align="left">portfolio:</h3>
+<p align="left">
+<a href="https://twitter.com/ekahmad1398" target="blank"><img align="center" src="portfolio-phi-olive-94.vercel.app" alt="Live Portfolio" height="30" width="40" /></a>

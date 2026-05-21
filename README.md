@@ -2,13 +2,21 @@
 Hi 👋 My name is Ahmad Shah Gouhari!<br><br># 🚀  Frontend Developer & Graphic Designer<br><br>🌍  I'm based in Afghanistan<br>✉️  You can contact me at ahmadshahgouhari001@gmail.com<br><br>I'm a passionate **Frontend Developer** specializing in HTML, CSS, JavaScript, React, Tailwind CSS, and Next.js. I love building beautiful and functional web experiences, and I'm always eager to learn and try out new technologies.<br>
 
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ekahmad1398) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ekahmad1398) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ekahmad1398) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ekahmad1398) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/ekahmad1398) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@ekahmad1398) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ekahmad1398) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:a78250006437@gmail.com) 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/ekahmad1398" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ekahmad1398" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ekahmad1398" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ekahmad1398" height="30" width="40" /></a>
+<a href="https://fb.com/ekahmad1398" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ekahmad1398" height="30" width="40" /></a>
+<a href="https://instagram.com/ekahmad1398" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ekahmad1398" height="30" width="40" /></a>
+</p>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=ekahmad1398&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ekahmad1398&show_icons=true&locale=en&layout=compact" alt="ekahmad1398" /></p>
+
 ![](https://streak-stats.demolab.com/?user=ekahmad1398&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ekahmad1398&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
@@ -16,6 +24,5 @@ Hi 👋 My name is Ahmad Shah Gouhari!<br><br># 🚀  Frontend Developer & Graph
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---
-[![](https://komarev.com/ghpvc/?username=ekahmad1398&icon=4&color=3)](https://visitcount.itsvg.in)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ekahmad1398&show_icons=true&locale=en" alt="ekahmad1398" /></p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -1,51 +1,54 @@
 # 💫 About Me
 
-Hi 👋 I'm **Ahmad Shah Gouhari**  
-🚀 Frontend Developer & Graphic Designer
+<h1 align="center">Hi 👋, I'm Ahmad Shah Gouhari</h1>
+<h3 align="center">Frontend Developer & Graphic Designer</h3>
 
-I’m a passionate frontend developer focused on building modern, responsive, and user-friendly web experiences.  
-I enjoy creating clean UI designs, interactive interfaces, and improving user experience with modern technologies.
-
-- 🌍 Based in Afghanistan
-- ✉️ Contact: **ahmadshahgouhari001@gmail.com**
-- 🌱 Currently learning more about advanced React & Next.js development
-- 🎯 Interested in Frontend Development, UI/UX, and Creative Design
+<p align="center">
+Passionate about building modern, responsive, and user-friendly web experiences using modern frontend technologies.
+</p>
 
 ---
 
-## 🚀 Skills & Technologies
+## 🚀 About Me
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="45" height="45"/>
+- 🌍 Based in Afghanistan  
+- ✉️ Email: **ahmadshahgouhari001@gmail.com**
+- 💻 Frontend Developer specializing in **React, Next.js & Tailwind CSS**
+- 🎨 Graphic Designer with experience in **Photoshop & Canva**
+- 🌱 Always learning new technologies and improving UI/UX skills
+- ⚡ Love creating clean, interactive, and modern web interfaces
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,git,cpp,ps" />
+</p>
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" alt="canva" width="48" height="48"/>
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/ekahmad1398" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
+  <img src="https://skillicons.dev/icons?i=twitter" width="45" />
 </a>
 
 <a href="https://linkedin.com/in/ekahmad1398" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+  <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
 </a>
 
 <a href="https://facebook.com/ekahmad1398" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" />
+  <img src="https://cdn.simpleicons.org/facebook/1877F2" width="45" />
 </a>
 
 <a href="https://instagram.com/ekahmad1398" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
+  <img src="https://skillicons.dev/icons?i=instagram" width="45" />
 </a>
 </p>
 
@@ -53,18 +56,28 @@ I enjoy creating clean UI designs, interactive interfaces, and improving user ex
 
 ## 📊 GitHub Stats
 
-![](https://streak-stats.demolab.com/?user=ekahmad1398&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ekahmad1398&theme=tokyonight&hide_border=true&border_radius=10" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ekahmad1398&theme=tokyonight&hide_border=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekahmad1398&theme=tokyonight&hide_border=true&layout=compact" />
+</p>
 
 ---
 
 ## 🌍 Portfolio
 
-🔗 [Visit My Portfolio](https://portfolio-phi-olive-94.vercel.app)
+<p align="center">
+  <a href="https://portfolio-phi-olive-94.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit-My%20Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## ✨ Quote
 
-> “Great web experiences are built with creativity, consistency, and attention to detail.”
+<p align="center">
+<i>"Great web experiences are built with creativity, consistency, and attention to detail."</i>
+</p>

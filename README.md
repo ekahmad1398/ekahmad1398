@@ -38,7 +38,7 @@
 
 ---
 
-## 🛠️ Tech Stack & Tools (Sorted from Basics to Advanced)
+## 🛠️ Tech Stack & Tools
 
 | Category | Tools & Technologies |
 | :--- | :--- |
